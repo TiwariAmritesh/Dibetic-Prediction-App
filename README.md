@@ -22,3 +22,6 @@ Diabetes-Prediction-Project/
 ├── final_model.pkl
 ├── requirements.txt
 └── README.md
+
+🚀 Live Demo
+🔗 Live Application:https://dibetic-prediction-app.onrender.com
